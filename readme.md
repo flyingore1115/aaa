@@ -1,6 +1,9 @@
 #환영합니다.
-add
+add .
 
 remote -v
 
+git commit -m ''
+
 git push origin master
+

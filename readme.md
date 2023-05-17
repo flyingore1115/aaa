@@ -1,2 +1,6 @@
 #환영합니다.
-닝닝닝
+add
+
+remote -v
+
+git push origin master
